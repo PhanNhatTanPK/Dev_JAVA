@@ -1,0 +1,4 @@
+Cong Ty A,2000,2
+Hoang Van B,400,0
+Cong Ty C,3000,1
+Cong Ty D,2500,3
